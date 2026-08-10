@@ -157,7 +157,7 @@ agrobiodiversity-climate-soil-analysis/
 The study was conducted in **Jabalpur District, Madhya Pradesh, India**.
 
 <p align="center">
-  <img src="figures/Figure_01_Study_Area.png" width="700">
+  <img src="figures/Agro-Biodiversity-Assessment-Study Area Jabalpur.png" width="700">
 </p>
 
 **Figure 1.** Location of the study area showing Jabalpur District within Madhya Pradesh, India.
