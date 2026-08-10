@@ -87,7 +87,7 @@ The following datasets were used in this project:
 ## Software & Tools
 
 ### GIS Software
-- QGIS 3.x
+- QGIS 3.44
 
 ### Programming Language
 - Python 3.12
@@ -161,3 +161,13 @@ The study was conducted in **Jabalpur District, Madhya Pradesh, India**.
 </p>
 
 **Figure 1.** Location of the study area showing Jabalpur District within Madhya Pradesh, India.
+
+## Climate Variables
+
+The climatic characteristics of the study area were represented using four WorldClim bioclimatic variables used in the Random Forest model.
+
+<p align="center">
+  <img src="figures/Climate_Map.png" width="900">
+</p>
+
+*Figure 2. Spatial distribution of BIO1 (Annual Mean Temperature), BIO4 (Temperature Seasonality), BIO12 (Annual Precipitation), and BIO19 (Precipitation of the Coldest Quarter).*
