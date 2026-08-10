@@ -167,7 +167,7 @@ The study was conducted in **Jabalpur District, Madhya Pradesh, India**.
 The climatic characteristics of the study area were represented using four WorldClim bioclimatic variables used in the Random Forest model.
 
 <p align="center">
-  <img src="figures/Climate_Map.png" width="900">
+  <img src="figures/Climate Map.png" width="900">
 </p>
 
 *Figure 2. Spatial distribution of BIO1 (Annual Mean Temperature), BIO4 (Temperature Seasonality), BIO12 (Annual Precipitation), and BIO19 (Precipitation of the Coldest Quarter).*
