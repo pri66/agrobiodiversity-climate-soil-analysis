@@ -25,6 +25,22 @@ The project demonstrates an end-to-end geospatial machine learning workflow, inc
 - SHAP analysis revealed that precipitation and temperature variables had the strongest impact on biodiversity prediction.
 - Generated publication-quality GIS maps and machine learning visualizations for model interpretation.
 
+## Repository Highlights
+
+✔ End-to-end geospatial machine learning workflow
+
+✔ GIS analysis using QGIS
+
+✔ Climate and soil spatial data processing
+
+✔ Random Forest regression modelling
+
+✔ SHAP-based model explainability
+
+✔ Publication-quality maps and figures
+
+✔ Well-documented and reproducible Python scripts
+
 ## Project Objectives
 
 The main objectives of this project are:
