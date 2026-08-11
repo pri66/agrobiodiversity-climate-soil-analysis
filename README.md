@@ -1,5 +1,11 @@
 #  Agrobiodiversity Assessment Using Climate, Soil, GIS and Machine Learning
 
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
+![QGIS](https://img.shields.io/badge/QGIS-3.x-green?logo=qgis)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Random%20Forest-orange)
+![SHAP](https://img.shields.io/badge/Explainability-SHAP-red)
+![GIS](https://img.shields.io/badge/GIS-Geospatial-success)
+
 ### A geospatial machine learning project integrating GIS, climate variables, soil properties, Random Forest regression, and SHAP explainability to investigate spatial patterns of agrobiodiversity in Jabalpur District, Madhya Pradesh, India.
 
 ## Project Overview
