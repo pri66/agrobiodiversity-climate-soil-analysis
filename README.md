@@ -1,7 +1,7 @@
 #  Agrobiodiversity Assessment Using Climate, Soil, GIS and Machine Learning
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
-![QGIS](https://img.shields.io/badge/QGIS-3.x-green?logo=qgis)
+![QGIS](https://img.shields.io/badge/QGIS-3.44-green?logo=qgis)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Random%20Forest-orange)
 ![SHAP](https://img.shields.io/badge/Explainability-SHAP-red)
 ![GIS](https://img.shields.io/badge/GIS-Geospatial-success)
