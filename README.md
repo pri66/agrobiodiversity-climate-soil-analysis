@@ -211,3 +211,14 @@ SHAP dependence plots illustrate how changes in individual predictor variables i
 </p>
 
 *Figure 6. SHAP dependence plots for the four most influential environmental variables (BIO12, BIO4, BIO1 and BIO19).*
+
+## Random Forest Feature Importance
+
+The Random Forest model ranks predictor variables according to their contribution to reducing prediction error. Higher importance values indicate a stronger influence on biodiversity prediction.
+
+<p align="center">
+  <img src="figures/Feature_Importance.png" width="700">
+</p>
+
+*Figure 7. Feature importance ranking obtained from the Random Forest regression model.*
+figures/Feature_Importance.png
