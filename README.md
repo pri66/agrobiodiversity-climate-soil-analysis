@@ -181,3 +181,14 @@ The soil information was obtained from the **Harmonized World Soil Database (HWS
 </p>
 
 *Figure 3. Distribution of Soil Mapping Units (SMU_ID 3735, 3861, 3866, and 7001) in Jabalpur District derived from the Harmonized World Soil Database (HWSD v2.0).*
+
+## 📊 Correlation Analysis
+
+Pearson correlation analysis was performed to examine the relationships between biodiversity indices and selected environmental variables before machine learning modelling.
+
+<p align="center">
+  <img src="figures/Figure_06_Correlation_Heatmap.png" width="700">
+</p>
+
+*Figure 4. Pearson correlation heatmap showing relationships among biodiversity indices (Shannon, Simpson, Evenness) and selected climatic variables.*
+
