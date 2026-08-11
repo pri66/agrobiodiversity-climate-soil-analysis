@@ -231,3 +231,11 @@ Model performance was evaluated by comparing the observed Shannon Diversity Inde
 </p>
 
 *Figure 8. Comparison between observed and predicted Shannon Diversity Index values obtained from the Random Forest regression model.*
+
+## Citation
+
+If you use this repository in your research or academic work, please cite it appropriately.
+
+**Author:** Priyanka Choubey  
+**Project:** Agrobiodiversity Assessment Using Climate, Soil, GIS and Machine Learning  
+**Year:** 2026
