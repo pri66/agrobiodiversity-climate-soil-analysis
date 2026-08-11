@@ -171,3 +171,13 @@ The climatic characteristics of the study area were represented using four World
 </p>
 
 *Figure 2. Spatial distribution of BIO1 (Annual Mean Temperature), BIO4 (Temperature Seasonality), BIO12 (Annual Precipitation), and BIO19 (Precipitation of the Coldest Quarter).*
+
+## Soil Mapping Units
+
+The soil information was obtained from the **Harmonized World Soil Database (HWSD v2.0)**. Four dominant Soil Mapping Units (SMUs) were identified within the study area and used as the soil layer for subsequent analysis.
+
+<p align="center">
+  <img src="figures/Soil Map.png" width="700">
+</p>
+
+*Figure 3. Distribution of Soil Mapping Units (SMU_ID 3735, 3861, 3866, and 7001) in Jabalpur District derived from the Harmonized World Soil Database (HWSD v2.0).*
