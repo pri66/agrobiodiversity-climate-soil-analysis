@@ -18,6 +18,13 @@ The workflow integrates spatial datasets, climate variables from WorldClim, soil
 
 The project demonstrates an end-to-end geospatial machine learning workflow, including data preparation, spatial analysis, exploratory data analysis, predictive modelling, and model interpretation.
 
+## Key Results
+
+- Developed a Random Forest regression model to predict the Shannon Diversity Index using climate and soil variables.
+- Identified **BIO12 (Annual Precipitation)** as the most influential predictor of agrobiodiversity.
+- SHAP analysis revealed that precipitation and temperature variables had the strongest impact on biodiversity prediction.
+- Generated publication-quality GIS maps and machine learning visualizations for model interpretation.
+
 ## Project Objectives
 
 The main objectives of this project are:
