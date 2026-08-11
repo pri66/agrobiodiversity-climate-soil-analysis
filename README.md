@@ -201,3 +201,13 @@ SHAP (SHapley Additive exPlanations) analysis was used to interpret the Random F
 </p>
 
 *Figure 5. SHAP summary plot showing the relative importance and influence of environmental variables on the Random Forest model predictions.*
+
+## SHAP Dependence Plots
+
+SHAP dependence plots illustrate how changes in individual predictor variables influence the predicted Shannon Diversity Index while accounting for interactions with other environmental variables.
+
+<p align="center">
+  <img src="figures/Figure_06_SHAP_Dependence.png" width="850">
+</p>
+
+*Figure 6. SHAP dependence plots for the four most influential environmental variables (BIO12, BIO4, BIO1 and BIO19).*
