@@ -182,7 +182,7 @@ The soil information was obtained from the **Harmonized World Soil Database (HWS
 
 *Figure 3. Distribution of Soil Mapping Units (SMU_ID 3735, 3861, 3866, and 7001) in Jabalpur District derived from the Harmonized World Soil Database (HWSD v2.0).*
 
-## 📊 Correlation Analysis
+## Correlation Analysis
 
 Pearson correlation analysis was performed to examine the relationships between biodiversity indices and selected environmental variables before machine learning modelling.
 
@@ -192,3 +192,12 @@ Pearson correlation analysis was performed to examine the relationships between 
 
 *Figure 4. Pearson correlation heatmap showing relationships among biodiversity indices (Shannon, Simpson, Evenness) and selected climatic variables.*
 
+## Model Explainability (SHAP)
+
+SHAP (SHapley Additive exPlanations) analysis was used to interpret the Random Forest model by quantifying the contribution of each environmental variable to biodiversity prediction.
+
+<p align="center">
+  <img src="figures/Figure_08B_SHAP_Summary.png" width="700">
+</p>
+
+*Figure 5. SHAP summary plot showing the relative importance and influence of environmental variables on the Random Forest model predictions.*
